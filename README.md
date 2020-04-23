@@ -78,7 +78,7 @@ Given the current coronavirus pandemic, the age 65 and up group voter turnout is
 [Link to Income Data Visualization](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/65AndUpIncomeDataByCounty/IncomeVisualization.JPG)
 
 #### How will Voter Turnout for Older Adults be Impacted by the COVID-19 Pandemic in Maryland?
-Based on our analysis, we do not think voter turnout (for older adults) in areas like Howard or Montomgery county will be affected. A few links below detail the disenfranchisement of low income voters:
+Based on our analysis, we do not think voter turnout (for older adults) in areas like Howard or Montomgery county will be affected. However, we think that voter turnout in less well-to-do counties like Allegany and Garrett will fall. A few links below detail the disenfranchisement and plightof low income voters:
 
 - https://www.theatlantic.com/politics/archive/2014/01/why-are-the-poor-and-minorities-less-likely-to-vote/282896/
 - https://www.npr.org/2018/09/10/645223716/on-the-sidelines-of-democracy-exploring-why-so-many-americans-dont-vote
