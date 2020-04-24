@@ -70,7 +70,7 @@ Given the current coronavirus pandemic, the age 65 and up group voter turnout is
 Also note that Baltimore County is somewhat of an anomaly when it comes to voter turnout. Baltimore county's voter turnouts leaves much to be desired, and yet, according to income and education data, the 65 and up group stand in the middle of the pack (compared to 65 and up groups in other counties). Perhaps Baltimore county is kind of a subset of Baltimore's mindset, in that, despite good levels of education and average household income, Baltimore county residents feel hopeless and ignored. Baltimore county has issues with incarceration and crime, so these factors may also play a role in low voter turnout.
 
 #### How will Voter Turnout for Older Adults be Impacted by the COVID-19 Pandemic in Maryland?
-Based on our analysis, we do not think voter turnout (for older adults) in areas like Howard or Montomgery county will be affected. However, we think that voter turnout in less well-to-do counties like Allegany and Garrett will fall. A few links below detail the disenfranchisement and plightof low income voters:
+Based on our analysis, we do not think voter turnout (for older adults) in areas like Howard or Montgomery county will be affected. However, we think that voter turnout in less well-to-do counties like Allegany and Garrett will fall. A few links below detail the disenfranchisement and plightof low income voters:
 
 - https://www.theatlantic.com/politics/archive/2014/01/why-are-the-poor-and-minorities-less-likely-to-vote/282896/
 - https://www.npr.org/2018/09/10/645223716/on-the-sidelines-of-democracy-exploring-why-so-many-americans-dont-vote
