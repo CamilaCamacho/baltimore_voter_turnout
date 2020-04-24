@@ -75,7 +75,7 @@ Given the current coronavirus pandemic, the age 65 and up group voter turnout is
 
 ![HSDiplomaDataVisualization](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/Maryland65AndUpEducationData/HSDiplomaGED.PNG)
 
-[Link to Income Data Visualization](
+[Link to Income Data Visualization](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/65AndUpIncomeDataByCounty/IncomeVisual.JPG)
 
 Also note that Baltimore County is somewhat of an anomaly when it comes to voter turnout. Baltimore county's voter turnouts leaves much to be desired, and yet, according to income and education data, the 65 and up group stand in the middle of the pack (compared to 65 and up groups in other counties). Perhaps Baltimore county is kind of a subset of Baltimore's mindset, in that, despite good levels of education and average household income, Baltimore county residents feel hopeless and ignored. Baltimore county has issues with incarceration and crime, so these factors may also play a role in low voter turnout.
 
